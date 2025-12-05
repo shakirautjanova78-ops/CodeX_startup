@@ -1,0 +1,8 @@
+Model Information:
+* title:	Food bar
+* source:	https://sketchfab.com/3d-models/food-bar-185f1a75e0e8452ea7c013730e973cd0
+* author:	Katydid (https://sketchfab.com/Katydid.)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

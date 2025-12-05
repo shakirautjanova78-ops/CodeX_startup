@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Университет 3D Туры</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div id="threejs-container"></div>
+
+    <video id="webcam" style="display: none;" autoplay playsinline></video>
+
+    <div id="ui-overlay">
+        <h2 id="status">Жүктелуде...</h2>
+        <p id="gesture-feedback">Қол қимылы: Күтуде... ✋</p>
+
+        <div id="tour-controls">
+            <button onclick="window.changeScene('external')">🏰 Сыртқы Тур</button>
+            <button onclick="window.changeScene('auditorium')">👨‍🏫 Аудитория</button>
+            <button onclick="window.changeScene('library')">📚 Кітапхана</button>
+            <button onclick="window.changeScene('canteen')">🍔 Асхана</button>
+            <button onclick="window.changeScene('sport')">🏋️ Спорт Зал</button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.160.1/three.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.17.0/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands@0.4.1675469240/hands.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-webgl@4.17.0/dist/tf-backend-webgl.min.js"></script>
+
+    <script type="module" src="src/main.js"></script>
+
+</body>
+</html>

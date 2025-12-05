@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sports Hall
+* source:	https://sketchfab.com/3d-models/sports-hall-30d774be497f4ec38caf4478bb95a3d6
+* author:	local.yany (https://sketchfab.com/local.yany)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sports Hall" (https://sketchfab.com/3d-models/sports-hall-30d774be497f4ec38caf4478bb95a3d6) by local.yany (https://sketchfab.com/local.yany) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
